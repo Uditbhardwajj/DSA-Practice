@@ -1,3 +1,4 @@
+ //better approach
  #include <iostream>
  using namespace std;
 
@@ -26,3 +27,6 @@ int main() {
       cout << "Number of Subarrays with xor K  " << k << " = " << count;
     return 0;
 }
+
+
+//optimal approach
