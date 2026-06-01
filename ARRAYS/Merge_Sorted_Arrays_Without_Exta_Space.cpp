@@ -103,4 +103,4 @@ int main() {
     return 0;
 }
 
-// another optimal approach is gap 
+// another optimal approach is gap method
