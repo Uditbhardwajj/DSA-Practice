@@ -13,7 +13,7 @@ public:
         return sum;
     }
 
-    int smallestDivisor(vector<int>& nums, int threshold)// binary search for iteration (inplace of linear )
+    int smallestDivisor(vector<int>& nums, int threshold)// binary search for iteration (inplace of linear)
     {
         int low = 1;
         int high = *max_element(nums.begin(), nums.end());
